@@ -24,6 +24,7 @@
 \usepackage[hmargin=3cm,vmargin=2.5cm]{geometry}
 
 % Imágenes
+\usepackage{tikz}
 \usepackage{graphicx}
 \graphicspath{../figures/}
 
@@ -33,7 +34,7 @@
 
 % Código
 \usepackage{listings}
-\usepackage[usenames,dvipsnames]{color}
+\usepackage{color}
 
 \lstset{
 	language=R,				% the language of the code
@@ -89,6 +90,13 @@
 	\subsection*{Aplicación del modelo}
 	
 	\section{Resultados}
+	
+	\begin{figure}
+		\centering
+		\input{../figures/comparacion.tex}
+		\caption{Sample output from tikzDevice}
+		\label{plot:test}
+	\end{figure}
 	
 	\section{Discusión}
 	
