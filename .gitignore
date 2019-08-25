@@ -43,3 +43,10 @@ rsconnect/
 *.log
 *.out
 *.synctex.gz
+
+# Biblatex
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.bib.bak
