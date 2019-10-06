@@ -2,9 +2,9 @@
 
 - Jorge Esteban Mendoza Ortiz. esteban.mendoza@ciencias.unam.mx
 
-- Enrique Moctezuma González enriquemg@ciencias.unam.mx
+- Enrique Moctezuma González. enriquemg@ciencias.unam.mx
 
-- Ana Victoria López Rodríguez anaviclopez@ciencias.unam.mx
+- Ana Victoria López Rodríguez. anaviclopez@ciencias.unam.mx
 
 1. *Objetivo.* Aplicar un modelo matemático para estimar el comportamiento epidémico de la influenza A (H1N1) en México durante el primer brote epidémico y durante las etapas de aplicación de medidas para mitigar la epidemia.
 	
