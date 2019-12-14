@@ -1,10 +1,10 @@
 # Estimación de la efectividad de las medidas profilácticas tomadas en México ante la epidemia de influenza A (H1N1) durante la primavera del 2009
 
-- [Jorge Esteban Mendoza Ortiz](mailto:esteban.mendoza@ciencias.unam.mx)
+- Jorge Esteban Mendoza Ortiz. esteban.mendoza@ciencias.unam.mx
 
-- [Enrique Moctezuma González](mailto:enriquemg@ciencias.unam.mx) 
+- Enrique Moctezuma González. enriquemg@ciencias.unam.mx
 
-- [Ana Victoria López Rodríguez](mailto:anaviclopez@ciencias.unam.mx) 
+- Ana Victoria López Rodríguez. anaviclopez@ciencias.unam.mx
 
 1. *Objetivo.* Aplicar un modelo matemático para estimar el comportamiento epidémico de la influenza A (H1N1) en México durante el primer brote epidémico y durante las etapas de aplicación de medidas para mitigar la epidemia.
 	
